@@ -96,4 +96,5 @@ make test
 ```bash
 make style
 ```
-where is my data..
+
+In github DATA folder is handle by ignore file.
