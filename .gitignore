@@ -131,5 +131,8 @@ dmypy.json
 # custom
 .vscode/
 .idea/
-.DS_Store
-test.ipynb
+.DS_Store12899781_clicks
+129004 126836 118524
+
+# DATA files
+/DATA
