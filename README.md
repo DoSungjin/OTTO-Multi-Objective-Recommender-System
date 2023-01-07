@@ -2,6 +2,9 @@
 ![image](https://user-images.githubusercontent.com/100894816/207234514-8f4774dd-7fae-4226-a0de-0de77bae0025.png)
 ![image](https://user-images.githubusercontent.com/100894816/207234536-ba208aa7-0004-4fd1-bb1a-60447f1c72ea.png)
 
+
+test README update
+
 Template repository for Python project
 ## 🎯**Goal of the Competition**
 
